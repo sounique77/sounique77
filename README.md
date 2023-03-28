@@ -45,6 +45,8 @@
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-MySQL-2e8e99?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-SQLite-71a9d5?style=for-the-badge&logo=SQLite&logoColor=white" alt="SQLite" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-SQLserver-648096?style=for-the-badge&logo=SQLserver&logoColor=white"  alt="SQLServer"/> </a>
+<a href="#" target="_blank"> <img src="https://img.shields.io/badge/-Q-648096?style=for-the-badge&logo=SQLserver&logoColor=white"  alt="Q"/> </a>
+<a href="#" target="_blank"> <img src="https://img.shields.io/badge/-R-648096?style=for-the-badge&logo=SQLserver&logoColor=white"  alt="r"/> </a>
   
 ### ⚙ Tools
 
