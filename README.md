@@ -14,9 +14,11 @@
  
  📫 How to reach me: sounique5555@gmail.com
  
- 😄 Pronouns: she/her/
+ 😄 Pronouns: she/her/ [Assess First Behavioural Profile](https://app.assessfirst.com/_/profile/i09v29zb-angelica-vancea)
  
-⚡ Fun fact: love kx Academy!
+⚡ Fun fact: love [kx Academy] community! (https://kx.com/academy/courses/introductory-workshop/)
+
+
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelica-vancea-451501261/)
 [![website](https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/21511256/avancea)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@angivancea)
