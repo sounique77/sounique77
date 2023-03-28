@@ -3,8 +3,10 @@
 
 
  🔭 I’m currently working on Scala applications for fraud prevention.
+ 
  👩‍🔬 Data grad @JustIT(Cohort3) and enrolled for Machine Learning Bootcamp with 
- [HPI] (https://open.hpi.de/courses/datascience2023)
+ 
+ [HPI](https://open.hpi.de/courses/datascience2023)
  
  🌱 I’m currently learning Scala
  
@@ -61,7 +63,8 @@
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-MSAzure-580847?style=for-the-badge&logo=slack&logoColor=white" alt="MSAzure"/> </a>
  
   <br>
-  <img width="733" alt="image" src="https://user-images.githubusercontent.com/121234311/228316524-304a6b23-ab98-420a-b58a-2c069436c6f2.png"> [link to profile]((https://learn.microsoft.com/en-us/users/angelicavancea-2724/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=6351786&redeem=3GV2VZ))
+  <img width="733" alt="image" src="https://user-images.githubusercontent.com/121234311/228316524-304a6b23-ab98-420a-b58a-2c069436c6f2.png"> 
+  [link to profile](https://learn.microsoft.com/en-us/users/angelicavancea-2724/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=6351786&redeem=3GV2VZ)
 
   <br>
   
