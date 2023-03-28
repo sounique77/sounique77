@@ -16,7 +16,7 @@
  
  😄 Pronouns: she/her/ [Assess First Behavioural Profile](https://app.assessfirst.com/_/profile/i09v29zb-angelica-vancea)
  
-⚡ Fun fact: love [kx Academy community!] (https://kx.com/academy/courses/introductory-workshop/)
+⚡ Fun fact: love kx Academy community! Learn more by following this link https://kx.com/academy/
 
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelica-vancea-451501261/)
