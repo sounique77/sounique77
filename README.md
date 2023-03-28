@@ -13,6 +13,5 @@ Here are some ideas to get you started:
  📫 How to reach me: sounique5555@gmail.com
  😄 Pronouns: she/her/
 ⚡ Fun fact: love kx Academy!
-https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelica-vancea-451501261/)
-https://img.shields.io/static/v1?label=<Python Libraries>&message=<Python>&color=<Green>
-https://img.shields.io/badge/<SQL>-<>-<blue>
+[(https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelica-vancea-451501261/)
+
