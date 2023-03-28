@@ -58,8 +58,11 @@
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-GoogleSheets-46a13f?style=for-the-badge&logo=GoogleSheets&logoColor=1c3c5f" alt="Google Sheets" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-jupyter-d37e02?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-IntelliJIDEA-168bff?style=for-the-badge&logo=jira&logoColor=white" alt="IntelliJIDEA"  /> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/-MSAzure-580847?style=for-the-badge&logo=slack&logoColor=white" alt="MSAzure" /> </a>
+<a href="#" target="_blank"> <[img src="https://img.shields.io/badge/-MSAzure-580847?style=for-the-badge&logo=slack&logoColor=white" alt="MSAzure"] (https://learn.microsoft.com/en-us/users/angelicavancea-2724/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=6351786&redeem=3GV2VZ)/> </a>
  
+  <br>
+  <img width="733" alt="image" src="https://user-images.githubusercontent.com/121234311/228316524-304a6b23-ab98-420a-b58a-2c069436c6f2.png">
+
   <br>
   
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=sounique77.sounique77" />
