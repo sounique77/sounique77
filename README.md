@@ -2,7 +2,8 @@
 
 
 
- 🔭 I’m currently working on Scala applications for fraud prevention with [Xander Talent] (https://www.xandertalent.com/)
+ 🔭 I’m currently working on Scala applications for fraud prevention with
+ [Xander Talent](https://www.xandertalent.com/)
  
  👩‍🔬 Data grad @JustIT(Cohort3) and enrolled for Machine Learning Bootcamp with 
  
@@ -81,6 +82,5 @@
 <!--
 
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=bzynpb.visitor-badge" />
-[<img width="623" alt="image" src="https://user-images.githubusercontent.com/121234311/233559155-99d1315a-2cee-4c7d-a32f-44b227bbd363.png">
-] (https://www.xandertalent.com/)
+[<img width="623" alt="image" src="https://user-images.githubusercontent.com/121234311/233559155-99d1315a-2cee-4c7d-a32f-44b227bbd363.png">](https://www.xandertalent.com/)
 **bzynpb/bzynpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
