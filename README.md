@@ -66,11 +66,10 @@
   <br>
   <img width="406" alt="image" src="https://user-images.githubusercontent.com/121234311/233558082-7fcf6688-92c9-4256-bb18-d08a12dcd925.png">
 
-  <br>
- [Link to my MS Azure profile](https://learn.microsoft.com/en-us/users/angelicavancea-2724/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=6351786&redeem=3GV2VZ)
+  <br>[Link to my MS Azure profile](https://learn.microsoft.com/en-us/users/angelicavancea-2724/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=6351786&redeem=3GV2VZ)
  
  <br>
-[<img width="623" alt="image" src="https://user-images.githubusercontent.com/121234311/233559155-99d1315a-2cee-4c7d-a32f-44b227bbd363.png">]((https://www.xandertalent.com/))
+[<img width="623" alt="image" src="https://user-images.githubusercontent.com/121234311/233559155-99d1315a-2cee-4c7d-a32f-44b227bbd363.png">](https://www.xandertalent.com/)
   <br>
   
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=sounique77.sounique77" />
