@@ -2,7 +2,7 @@
 
 
 
- 🔭 I’m currently working on Scala applications for fraud prevention.
+ 🔭 I’m currently working on Scala applications for fraud prevention with [Xander Talent] (https://www.xandertalent.com/)
  
  👩‍🔬 Data grad @JustIT(Cohort3) and enrolled for Machine Learning Bootcamp with 
  
@@ -63,8 +63,10 @@
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-MSAzure-580847?style=for-the-badge&logo=slack&logoColor=white" alt="MSAzure"/> </a>
  
   <br>
-  <img width="733" alt="image" src="https://user-images.githubusercontent.com/121234311/228316524-304a6b23-ab98-420a-b58a-2c069436c6f2.png"> 
-  [link to profile](https://learn.microsoft.com/en-us/users/angelicavancea-2724/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=6351786&redeem=3GV2VZ)
+  <img width="406" alt="image" src="https://user-images.githubusercontent.com/121234311/233558082-7fcf6688-92c9-4256-bb18-d08a12dcd925.png">
+
+  
+  [link to MS Azure profile] (https://learn.microsoft.com/en-us/users/angelicavancea-2724/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=6351786&redeem=3GV2VZ)
 
   <br>
   
@@ -79,4 +81,6 @@
 <!--
 
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=bzynpb.visitor-badge" />
+[<img width="623" alt="image" src="https://user-images.githubusercontent.com/121234311/233559155-99d1315a-2cee-4c7d-a32f-44b227bbd363.png">
+] (https://www.xandertalent.com/)
 **bzynpb/bzynpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
