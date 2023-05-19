@@ -2,14 +2,14 @@
 
 
 
- 🔭 I’m currently working on Scala applications for fraud prevention with
- [Xander Talent](https://www.xandertalent.com/)
+ 🔭 I’m currently working on Java applications for fraud prevention with
+ [Wiley Edge](https://www.wiley.com/edge/)
  
  👩‍🔬 Data grad @JustIT(Cohort3) and enrolled for Machine Learning Bootcamp with 
  
  [HPI](https://open.hpi.de/courses/datascience2023)
  
- 🌱 I’m currently learning Scala
+ 🌱 I’m currently learning Java
  
  👯 I’m looking to collaborate on Python for algorithmic trading using PDA model.
  
@@ -69,7 +69,9 @@
   <br>[Link to my MS Azure profile](https://learn.microsoft.com/en-us/users/angelicavancea-2724/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=6351786&redeem=3GV2VZ)
  
  <br>
- <img width="623" alt="image" src="https://user-images.githubusercontent.com/121234311/233559155-99d1315a-2cee-4c7d-a32f-44b227bbd363.png">  https://www.xandertalent.com/
+ ![image](https://github.com/sounique77/sounique77/assets/121234311/08012c70-640c-4f15-b2fc-8208022800a6)
+
+ https://www.wiley.com/edge/
   <br>
   
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=sounique77.sounique77" />
