@@ -69,7 +69,8 @@
   <br>[Link to my MS Azure profile](https://learn.microsoft.com/en-us/users/angelicavancea-2724/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=6351786&redeem=3GV2VZ)
  
  <br>
- ![image](https://github.com/sounique77/sounique77/assets/121234311/08012c70-640c-4f15-b2fc-8208022800a6)
+ <img width="175" alt="image" src="https://github.com/sounique77/sounique77/assets/121234311/b7e00e10-2170-45d3-a245-46f6d070db24">
+
 
  https://www.wiley.com/edge/
   <br>
